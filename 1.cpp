@@ -15,8 +15,8 @@ public:
 };
 
 int main() {
-    Number num1(5);
-    Number num2(10);
+    Number num1(58);
+    Number num2(60);
 
     if (num1 < num2) {
         cout <<"2 IS BIGGEST"<< endl;
@@ -24,6 +24,6 @@ int main() {
         cout << "1 IS BIGGEST" << endl;
     }
 
-    return 0;
+Â Â Â Â returnÂ 0;
 }
 
